@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:58393/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2015 23:36:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:58393/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>qwe</title>
+      <link>http://localhost:58393/post/qwe/</link>
+      <pubDate>Tue, 17 Nov 2015 23:36:19 +0800</pubDate>
+      
+      <guid>http://localhost:58393/post/qwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:58393/post/first/</link>
+      <pubDate>Tue, 17 Nov 2015 23:21:42 +0800</pubDate>
+      
+      <guid>http://localhost:58393/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello_Hugo</title>
+      <link>http://localhost:58393/post/hello_Hugo/</link>
+      <pubDate>Tue, 17 Nov 2015 16:03:46 +0800</pubDate>
+      
+      <guid>http://localhost:58393/post/hello_Hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
